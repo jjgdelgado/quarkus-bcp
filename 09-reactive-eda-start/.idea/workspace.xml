@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50e93345-5074-48b1-a4b6-ea4bb3ab3ec0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../06-test-review-start/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-reactive-architecture-start/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/event/BankAccountWasCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/serde/BankAccountWasCreatedDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/java/com/bcp/training/serde/SpeakerWasCreatedDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/schedule/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/schedule/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/schedule/src/test/java/com/bcp/training/conference/ScheduleResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/schedule/src/test/java/com/bcp/training/conference/ScheduleResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/session/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/session/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/session/src/test/java/com/bcp/training/conference/session/SessionResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/session/src/test/java/com/bcp/training/conference/session/SessionResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/speaker/src/test/java/com/bcp/training/speaker/DeterministicIdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/speaker/src/test/java/com/bcp/training/speaker/DeterministicIdGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-test-review-start/speaker/src/test/java/com/bcp/training/speaker/SpeakerResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06-test-review-start/speaker/src/test/java/com/bcp/training/speaker/SpeakerResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-reactive-architecture-start/products/benchmark.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../07-reactive-architecture-start/products/benchmark.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/java/com/bcp/training/PricesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/java/com/bcp/training/PricesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/java/com/bcp/training/ProductsResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/java/com/bcp/training/ProductsResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../07-reactive-architecture-start/products/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-reactive-develop-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08-reactive-develop-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/java/com/bcp.training/Suggestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/java/com/bcp.training/Suggestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/java/com/bcp.training/SuggestionResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/java/com/bcp.training/SuggestionResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../08-reactive-develop-start/suggestions/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-reactive-eda-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09-reactive-eda-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-detector/src/main/java/com/bcp/training/reactive/FraudProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-detector/src/main/java/com/bcp/training/reactive/FraudProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-detector/src/main/java/com/bcp/training/serde/BankAccountWasCreatedDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-detector/src/main/java/com/bcp/training/serde/BankAccountWasCreatedDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joedayz-bank/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/joedayz-bank/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joedayz-bank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/joedayz-bank/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/reactive/AccountTypeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/reactive/AccountTypeProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/resource/BankAccountsResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/joedayz-bank/src/main/java/com/bcp/training/resource/BankAccountsResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joedayz-bank/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/joedayz-bank/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/java/com/bcp/training/reactive/NewSpeakersProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/java/com/bcp/training/reactive/NewSpeakersProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/java/com/bcp/training/resource/SpeakerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/java/com/bcp/training/resource/SpeakerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../10-reactive-review-start/reactive-speaker/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30xyc1gCbbOvznS9iJ6g5DpsODo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jjgalan/Learn/quarkus/quarkus-bcp-2025/10-reactive-review-start&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50e93345-5074-48b1-a4b6-ea4bb3ab3ec0" name="Changes" comment="" />
+      <created>1754583593624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754583593624</updated>
+      <workItem from="1754583594874" duration="658000" />
+      <workItem from="1754584268547" duration="2582000" />
+      <workItem from="1754588563681" duration="609000" />
+      <workItem from="1754669085389" duration="240000" />
+      <workItem from="1754950101846" duration="415000" />
+      <workItem from="1756332626959" duration="656000" />
+      <workItem from="1756359273014" duration="253000" />
+      <workItem from="1765420768102" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

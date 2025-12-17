@@ -1,0 +1,30 @@
+package com.bcp.training.jwt;
+
+import io.smallrye.jwt.build.Jwt;
+
+import java.util.HashSet;
+import java.util.List;
+
+public class JwtGenerator {
+
+    private static final String ISSUER = "https://example.com/redhattraining";
+
+    public static String generateJwtForRegularUser(String username) {
+        return Jwt.issuer(ISSUER)
+                .upn(username + "@example.com")
+                .subject(username)
+                .audience("expenses.example.com")
+                .claim("locale", "en_US")
+                .groups(new HashSet<>(List.of("USER")))
+                .sign();
+    }
+
+    public static String generateJwtForAdmin(String username) {
+        return Jwt.issuer(ISSUER)
+                .upn(username + "@example.com")
+                .subject(username)
+                .claim("locale", "en_US")
+                .groups(new HashSet<>(List.of("USER", "ADMIN")))
+                .sign();
+    }
+}

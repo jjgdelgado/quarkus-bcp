@@ -1,0 +1,140 @@
+2025-10-15 21:11:31,780 WARN  [null] The "quarkus.log.file.enable" config property is deprecated and should not be used anymore.
+2025-10-15 21:11:31,899 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 1.168s. Listening on: http://localhost:8080
+2025-10-15 21:11:31,900 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-10-15 21:11:31,900 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-10-15 21:11:36,511 DEBUG [ExpensesResource.java] Getting expense by name: joel-2
+2025-10-15 21:20:36,882 INFO  [Timing.java] expenses stopped in 0.017s
+2025-11-05 11:14:32,329 WARN  [null] The "quarkus.log.file.enable" config property is deprecated and should not be used anymore.
+2025-11-05 11:14:32,429 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 1.100s. Listening on: http://localhost:8080
+2025-11-05 11:14:32,430 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-11-05 11:14:32,430 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-11-05 11:16:33,449 INFO  [RuntimeUpdatesProcessor.java] File change detected: /Users/josediaz/Projects/bcp/quarkus-bcp-2025/18-monitor-logging-start/expenses/src/main/resources/application.properties
+2025-11-05 11:16:33,450 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in application.properties, ExpensesResource.class.
+2025-11-05 11:16:33,455 INFO  [Timing.java] expenses stopped in 0.005s
+2025-11-05 11:16:33,661 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.205s. Listening on: http://localhost:8080
+2025-11-05 11:16:33,662 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-11-05 11:16:33,662 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-11-05 11:16:33,662 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.409s 
+2025-11-05 11:16:33,666 ERROR [ExpensesResource.java] Expense not found: none
+2025-11-05 11:17:21,324 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in ExpensesResource.class.
+2025-11-05 11:17:21,327 INFO  [Timing.java] expenses stopped in 0.003s
+2025-11-05 11:17:21,523 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.195s. Listening on: http://localhost:8080
+2025-11-05 11:17:21,524 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-11-05 11:17:21,524 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-11-05 11:17:21,524 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.255s 
+2025-11-05 11:17:21,525 DEBUG [ExpensesResource.java] Getting expense by name: joel-2
+2025-11-05 11:17:42,135 INFO  [Timing.java] expenses stopped in 0.007s
+2025-11-05 11:17:53,125 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 1.121s. Listening on: http://localhost:8080
+2025-11-05 11:17:53,126 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-11-05 11:17:53,126 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-11-05 11:18:38,378 INFO  [RuntimeUpdatesProcessor.java] File change detected: /Users/josediaz/Projects/bcp/quarkus-bcp-2025/18-monitor-logging-start/expenses/src/main/resources/application.properties
+2025-11-05 11:18:38,379 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in application.properties.
+2025-11-05 11:18:38,387 INFO  [Timing.java] expenses stopped in 0.007s
+2025-11-05 11:18:38,589 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.200s. Listening on: http://localhost:8080
+2025-11-05 11:18:38,589 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-11-05 11:18:38,589 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-11-05 11:18:38,589 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.212s 
+2025-11-05 11:18:38,590 DEBUG [ExpensesResource.java] Getting expense by name: joel-2
+2025-11-05 11:25:33,109 INFO  [Timing.java] expenses stopped in 0.016s
+2025-12-22 05:52:32,305 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 3.527s. Listening on: http://localhost:8080
+2025-12-22 05:52:32,306 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:52:32,306 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:52:57,030 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in ExpensesResource.class.
+2025-12-22 05:52:57,037 INFO  [Timing.java] expenses stopped in 0.005s
+2025-12-22 05:52:57,440 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.401s. Listening on: http://localhost:8080
+2025-12-22 05:52:57,440 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:52:57,441 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:52:57,441 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.728s 
+2025-12-22 05:52:57,448 ERROR [ExpensesResource.java] Expense not found: none
+2025-12-22 05:53:48,649 ERROR [ExpensesResource.java] Expense not found: none
+2025-12-22 05:54:46,516 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in ExpensesResource.class.
+2025-12-22 05:54:46,519 INFO  [Timing.java] expenses stopped in 0.002s
+2025-12-22 05:54:46,879 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.359s. Listening on: http://localhost:8080
+2025-12-22 05:54:46,879 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:54:46,880 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:54:46,880 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.426s 
+2025-12-22 05:54:46,881 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:55:38,939 INFO  [RuntimeUpdatesProcessor.java] File change detected: /home/jjgalan/Learn/quarkus/quarkus-bcp-2025/18-monitor-logging-start/expenses/src/main/resources/application.properties
+2025-12-22 05:55:38,940 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in application.properties.
+2025-12-22 05:55:38,942 INFO  [Timing.java] expenses stopped in 0.002s
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource BuildTime RunTime Fixed with ordinal 2147483647
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource SysPropConfigSource with ordinal 400
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource Config Override Config Source with ordinal 399
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource EnvConfigSource with ordinal 300
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource PropertiesConfigSource[source=file:/home/jjgalan/Learn/quarkus/quarkus-bcp-2025/18-monitor-logging-start/expenses/target/classes/application.properties] with ordinal 250
+2025-12-22 05:55:39,272 DEBUG [null] SRCFG01006: Loaded ConfigSource DefaultValuesConfigSource with ordinal -2147483648
+2025-12-22 05:55:39,287 DEBUG [null] ArC DI container initialized [beans=72, observers=5]
+2025-12-22 05:55:39,289 DEBUG [null] Loaded 39 removed beans lazily
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.vertx.serializers.ServerVertxBufferMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.vertx.serializers.ServerMutinyBufferMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.vertx.serializers.ServerVertxAsyncFileMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.vertx.serializers.ServerMutinyAsyncFileMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.jackson.runtime.serialisers.vertx.VertxJsonArrayMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.jackson.runtime.serialisers.vertx.VertxJsonObjectMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.server.runtime.QuarkusServerPathBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.jackson.runtime.serialisers.vertx.VertxJsonArrayMessageBodyReader and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.jackson.runtime.serialisers.vertx.VertxJsonObjectMessageBodyReader and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerCharArrayMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerByteArrayMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerFormUrlEncodedProvider and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerInputStreamMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.StreamingOutputMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerReaderBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerFileBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerFilePartBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.core.multipart.MultipartMessageBodyWriter and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerPathBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerPathPartBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerStringMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerBooleanMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerCharacterMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerNumberMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerInputStreamMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerReaderBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.server.runtime.QuarkusServerFileBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,289 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerByteArrayMessageBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class org.jboss.resteasy.reactive.server.providers.serialisers.ServerDefaultTextPlainBodyHandler and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.server.runtime.exceptionmappers.ForbiddenExceptionMapper and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.jackson.runtime.mappers.BuiltinMismatchedInputExceptionMapper and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.server.runtime.exceptionmappers.AuthenticationRedirectExceptionMapper and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class io.quarkus.resteasy.reactive.server.runtime.exceptionmappers.AuthenticationCompletionExceptionMapper and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,290 DEBUG [null] No matching bean found for type class io.quarkus.rest.runtime.__QuarkusInit and qualifiers []. The bean might have been marked as unused and removed during build.
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource BuildTime RunTime Fixed with ordinal 2147483647
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource SysPropConfigSource with ordinal 400
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource Config Override Config Source with ordinal 399
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource EnvConfigSource with ordinal 300
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource PropertiesConfigSource[source=file:/home/jjgalan/Learn/quarkus/quarkus-bcp-2025/18-monitor-logging-start/expenses/target/classes/application.properties] with ordinal 250
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource DevServicesConfigSource with ordinal 10
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource QuarkusUUIDConfigSource with ordinal -2147483648
+2025-12-22 05:55:39,293 DEBUG [null] SRCFG01006: Loaded ConfigSource DefaultValuesConfigSource with ordinal -2147483648
+2025-12-22 05:55:39,328 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.385s. Listening on: http://localhost:8080
+2025-12-22 05:55:39,329 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:55:39,329 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:55:39,329 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.391s 
+2025-12-22 05:55:39,330 DEBUG [DevModeExecutorService.java] Dev mode executor re-initialized
+2025-12-22 05:55:39,331 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:56:24,327 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:56:59,487 INFO  [RuntimeUpdatesProcessor.java] File change detected: /home/jjgalan/Learn/quarkus/quarkus-bcp-2025/18-monitor-logging-start/expenses/src/main/resources/application.properties
+2025-12-22 05:56:59,487 INFO  [RuntimeUpdatesProcessor.java] Restarting quarkus due to changes in application.properties.
+2025-12-22 05:56:59,488 DEBUG [Application.java] Stopping application
+2025-12-22 05:56:59,488 DEBUG [ShutdownRecorder.java] Attempting to gracefully shutdown.
+2025-12-22 05:56:59,490 DEBUG [ArcContainerImpl.java] ArC DI container shut down
+2025-12-22 05:56:59,490 INFO  [Timing.java] expenses stopped in 0.002s
+2025-12-22 05:56:59,849 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 0.358s. Listening on: http://localhost:8080
+2025-12-22 05:56:59,849 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:56:59,849 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:56:59,849 INFO  [RuntimeUpdatesProcessor.java] Live reload total time: 0.363s 
+2025-12-22 05:56:59,851 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:57:12,867 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:58:21,177 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 05:59:05,408 INFO  [Timing.java] expenses stopped in 0.002s
+2025-12-22 05:59:15,913 INFO  [Timing.java] expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.26.0) started in 3.459s. Listening on: http://localhost:8080
+2025-12-22 05:59:15,914 INFO  [Timing.java] Profile dev activated. Live Coding activated.
+2025-12-22 05:59:15,915 INFO  [Timing.java] Installed features: [cdi, compose, kubernetes, rest, rest-jackson, smallrye-context-propagation, vertx]
+2025-12-22 05:59:21,923 DEBUG [ExpensesResource.java] Getting expense joel-2
+2025-12-22 06:00:18,010 INFO  [Timing.java] expenses stopped in 0.005s
